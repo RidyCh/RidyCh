@@ -1,7 +1,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<p align="center"><picture align="center"><img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture></p>
   
-<<a href="https://app.daily.dev/lebathang">h1 align="center">Hi!,  I'm Rendy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></a>
+<a href="https://app.daily.dev/lebathang"><h1 align="center">Hi!,  I'm Rendy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></a>
 
 <div align="center">
   <p>
@@ -109,6 +111,19 @@
 
 <h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b></h2>
 <p align="center">
+</p><table align="center">
+<tbody><tr border="none">
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Scar1109&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
+  <br><br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&amp;theme=dark&amp;hide_border=false"> 
+</td>
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+  </td>
+</tr>
+</tbody></table>
+<!-- <p align="center">
 <a href="https://github.com/RidyCh/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RidyCh&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" width="450">
 </a>
@@ -121,7 +136,7 @@
     <a href="https://github.com/RidyCh"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidyCh&amp;theme=tokyonight&amp;hide_border=true" width="520" alt="RidyCh"></a>
 <a href="https://github.com/RidyCh"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RidyCh&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=tokyonight" width="320" alt="RidyCh"></a>
 </p>
-<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=RidyCh&amp;hide_border=true&amp;v=2" alt="RidyCh's WakaTime Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=RidyCh&amp;hide_border=true&amp;v=2" alt="RidyCh's WakaTime Stats"></p> -->
 
 <h2 id="-connect-with-me"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>Connect with Me</b></h2>
 <br>
