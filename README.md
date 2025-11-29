@@ -3,14 +3,14 @@
 
 <p align="center"><picture align="center"><img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture></p>
   
-<a href="https://app.daily.dev/lebathang"><h1 align="center">Hi!,  I'm Rendy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></a>
+<a href="https://app.daily.dev/lebathang"><h1 align="center">Hi!,  I'm Ren <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></a>
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="OS-Linux">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="ubuntu">
+    <!-- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="OS-Linux"> -->
+    <!-- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="ubuntu"> -->
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="OS-Windown">
-    <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&amp;logo=windows-11&amp;logoColor=white" alt="windows-11">
+    <!-- <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&amp;logo=windows-11&amp;logoColor=white" alt="windows-11"> -->
   </p>
 </div>
 
@@ -21,7 +21,7 @@
 <a href="https://app.daily.dev/ridy"><img src="https://api.daily.dev/devcards/v2/UoRyfCJrRxRSW01lO3DY5.png?type=default&r=8rr" width="356" alt="Ridy's Dev Card"/></a>
 
 <h2 id="--about-me"><img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b></h2>
-<p>I am Rendy, a student and tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let’s create innovative solutions together!</p>
+<p>I am Ren, a student and tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let’s create innovative solutions together!</p>
 <br>
 <ul>
 <li>
@@ -39,7 +39,7 @@
 </ul>
 <br>
 
-<h2 id="--competitive-programming"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b></h2>
+<!-- <h2 id="--competitive-programming"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b></h2>
 <br>
 <p align="left"> 
   <a href="https://www.hackerrank.com" target="_blank"> 
@@ -61,7 +61,7 @@
     <img alt="Codewars" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&amp;logoColor=d16c06">
   </a>
 </p>
-<br>
+<br> -->
 
 <h2 id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
 <p align="center">
@@ -74,7 +74,7 @@
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&amp;style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="nodejs">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="typescropt">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
-<img src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&amp;logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql;logoColor=fff" alt="MySQL">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="Markdown"></p>
 </li>
 <li>
@@ -86,7 +86,9 @@
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&amp;logo=mui&amp;logoColor=white" alt="Material ui">
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&amp;style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel">
-<img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&amp;logo=codeigniter&amp;logoColor=white" alt="Codeigniter">
+<img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django;logoColor=white" alt="Django">
+<img src="https://img.shields.io/badge/Flask-000?logo=flask;logoColor=fff" alt="Flask">
+<!-- <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&amp;logo=codeigniter&amp;logoColor=white" alt="Codeigniter"> -->
 </li>
 <li>
 <p>💾 Databases:</p>
@@ -98,12 +100,16 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=Postman&amp;logoColor=white" alt="postman">
-<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&amp;logo=xampp&amp;logoColor=white" alt="Xmapp">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno;logoColor=white" alt="bruno">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger;logoColor=white" alt="swagger">
+<!-- <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&amp;logo=xampp&amp;logoColor=white" alt="Xmapp"> -->
+<!-- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux"> -->
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" alt="Canva">
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&amp;logo=microsoft-office&amp;logoColor=white" alt="Microsoft Office">
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=white" alt="Microsoft Excel"></p>
+<img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity;logoColor=white" alt="Unity"></p>
+<img src="https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey;logoColor=fff" alt="Chocolatey"></p>
 </li>
 </ul>
 <p></p>
@@ -147,7 +153,7 @@
 </p>
 <p align="center"><!-----Social Accounts------>
 </p><p align="center">
- <a href="#">
+ <!-- <a href="#">
  <img border="0" alt="Ridy's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
  </a>
  <a href="https://linkedin.com/in/rendy-pratama-9302982b4">
@@ -155,7 +161,7 @@
  </a>
  <a href="https://x.com/ridy_ch">
  <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png">
- </a>
+ </a> -->
  <a href="https://www.instagram.com/rendy.30_/">
  <img border="0" alt="Rendy's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png">
  </a>
