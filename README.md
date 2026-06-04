@@ -154,10 +154,10 @@
 </p>
 <p align="center"><!-----Social Accounts------>
 </p><p align="center">
- <!-- <a href="#">
+ <a href="my-ren.vercel.app">
  <img border="0" alt="Ridy's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
  </a>
- <a href="https://linkedin.com/in/rendy-pratama-9302982b4">
+ <!-- <a href="https://linkedin.com/in/rendy-pratama-9302982b4">
  <img border="0" alt="Rendy's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
  </a>
  <a href="https://x.com/ridy_ch">
