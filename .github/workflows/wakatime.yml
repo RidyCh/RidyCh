@@ -28,3 +28,4 @@ jobs:
           LOCALE: "id"
           # PILIHAN DESAIN GRAFIK BALOK (Pilih salah satu baris BLOCKS di bawah ini):
           BLOCKS: "░▒▓█"               # Model Balok Gradasi Halus (Rekomendasi)
+          FORCE_ADD: "True"
