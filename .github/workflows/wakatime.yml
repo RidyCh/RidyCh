@@ -4,7 +4,7 @@ on:
   schedule:
     # Berjalan otomatis setiap hari jam 00:00 UTC
     - cron: '0 0 * * *'
-  workflow_dispatch: # Membuat Anda bisa menjalankan workflow secara manual
+  workflow_dispatch: # Memungkinkan Anda menjalankan secara manual
 
 jobs:
   update-readme:
@@ -15,3 +15,16 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # Pilihan Kustomisasi Tambahan (Ubah ke "False" jika ingin menyembunyikan):
+          SHOW_TOTAL: "True"           # Mengaktifkan total waktu keseluruhan
+          SHOW_PROJECTS: "False"       # SEMBUNYIKAN NAMA PROYEK
+          SHOW_OS: "True"             # Sembunyikan sistem operasi (Windows/Mac)
+          SHOW_EDITORS: "False"        # Sembunyikan teks editor (VS Code, dll)
+          SHOW_TIMEZONE: "True"       # Sembunyikan zona waktu Anda
+          SHOW_COMMIT: "False"         # Sembunyikan grafik jam commit
+          SHOW_LANGUAGE_PER_REPO: "True" # Sembunyikan detail bahasa per repositori
+          SHOW_LOC_CHART: "False"      # Sembunyikan grafik baris kode tahunan
+          # Pengaturan Bahasa Indonesia:
+          LOCALE: "id"
+          # PILIHAN DESAIN GRAFIK BALOK (Pilih salah satu baris BLOCKS di bawah ini):
+          BLOCKS: "░▒▓█"               # Model Balok Gradasi Halus (Rekomendasi)
