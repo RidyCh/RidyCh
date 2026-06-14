@@ -21,7 +21,6 @@
 <a href="https://app.daily.dev/ridy"><img src="https://api.daily.dev/devcards/v2/UoRyfCJrRxRSW01lO3DY5.png?type=default&r=8rr" width="356" alt="Ridy's Dev Card"/></a>
 
 <!-- START_SECTION:waka -->
-
 <!-- END_SECTION:waka -->
 
 <h2 id="--about-me"><img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b></h2>
