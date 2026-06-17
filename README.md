@@ -16,6 +16,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RidyCh&amp;color=blueviolet&amp;style=flat&amp;label=PROFILE+VIEWS" alt="view profile">
+  [![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg)](https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8)
 </div>
 <!-- <hr width="100%"> -->
 <a href="https://app.daily.dev/ridy"><img src="https://api.daily.dev/devcards/v2/UoRyfCJrRxRSW01lO3DY5.png?type=default&r=8rr" width="356" alt="Ridy's Dev Card"/></a>
