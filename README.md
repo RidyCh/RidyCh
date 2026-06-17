@@ -24,6 +24,15 @@
 <a href="https://app.daily.dev/ridy"><img src="https://api.daily.dev/devcards/v2/UoRyfCJrRxRSW01lO3DY5.png?type=default&r=8rr" width="356" alt="Ridy's Dev Card"/></a>
 
 <!--START_SECTION:waka-->
+
+```txt
+Blade Template   2 hrs 57 mins         ██████████████████▓░░░░░░   74.01 %
+PHP              50 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.08 %
+Git Config       8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Markdown         3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Other            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+```
+
 <!--END_SECTION:waka-->
 
 <h2 id="--about-me"><img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b></h2>
