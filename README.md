@@ -22,6 +22,7 @@
 </div>
 <!-- <hr width="100%"> -->
 <a href="https://app.daily.dev/ridy"><img src="https://api.daily.dev/devcards/v2/UoRyfCJrRxRSW01lO3DY5.png?type=default&r=8rr" width="356" alt="Ridy's Dev Card"/></a>
+<br>
 
 <!--START_SECTION:waka-->
 
