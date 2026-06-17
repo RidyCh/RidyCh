@@ -25,4 +25,4 @@ jobs:
           LOCALE: "id"
           FORCE_ADD: "True"
           TIME_RANGE: "all_time"
-          BLOCKS: "Default"
+          BLOCKS: "░▒▓█"
