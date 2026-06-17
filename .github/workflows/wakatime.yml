@@ -24,3 +24,5 @@ jobs:
           SHOW_LOC_CHART: "False"      # Sembunyikan Grafik Baris Kode
           LOCALE: "id"
           FORCE_ADD: "True"
+          TIME_RANGE: "all_time"
+          BLOCKS: "Default"
