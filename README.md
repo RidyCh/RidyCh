@@ -27,7 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                        30 hrs 35 mins        ████████▓░░░░░░░░░░░░░░░░   35.28 %
+PHP                        30 hrs 35 mins        ████████▓░░░░░░░░░░░░░░░░   35.27 %
 JavaScript                 18 hrs 10 mins        █████▒░░░░░░░░░░░░░░░░░░░   20.96 %
 Markdown                   12 hrs 36 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
 Blade Template             9 hrs 13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
