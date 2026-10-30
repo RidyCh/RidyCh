@@ -27,11 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                        63 hrs 6 mins         ████████▒░░░░░░░░░░░░░░░░   33.97 %
-Other                      33 hrs 23 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
-Blade Template             21 hrs 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
-JavaScript                 19 hrs 7 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-Markdown                   18 hrs 12 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+PHP                        63 hrs 11 mins        ████████▒░░░░░░░░░░░░░░░░   33.69 %
+Other                      33 hrs 45 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
+Blade Template             21 hrs 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+JavaScript                 19 hrs 7 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+Markdown                   18 hrs 12 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
 ```
 
 <!--END_SECTION:waka-->
